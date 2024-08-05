@@ -8,7 +8,7 @@ conda activate soda-pandas-dask-3.9
 ```shell
 pip install -r requirements.txt
 ```
-3. Add your Soda Cloud API key id and secret to your environment (or paste into `configuration.yaml`).
+3. Add your `SODA_CLOUD_API_KEY_ID` and `SODA_CLOUD_API_KEY_SECRET` to your environment (or paste the values into `configuration.yaml`).
 4. Run the Soda scan:
 ```shell
 python scan.py
