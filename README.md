@@ -2,7 +2,7 @@
 1. Create and activate python 3.9 environment:
 ```shell
 conda create -n soda-pandas-dask-3.9 python=3.9
-conda activate soda-pandas-dask-3.9 
+conda activate soda-pandas-dask-3.9
 ```
 2. Install dependencies (`soda-pandas-dask`):
 ```shell
