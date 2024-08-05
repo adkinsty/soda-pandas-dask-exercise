@@ -1,7 +1,7 @@
 # soda-pandas-dask example
 1. Create and activate python 3.9 environment:
 ```shell
-conda env -n soda-pandas-dask-3.9 python=3.9
+conda create -n soda-pandas-dask-3.9 python=3.9
 conda activate soda-pandas-dask-3.9 
 ```
 2. Install dependencies (`soda-pandas-dask`):
